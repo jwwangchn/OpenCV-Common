@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	VideoCapture usbCamera(1);//读取usb摄像头视频
-	VideoCapture flirCamera(2);
+	VideoCapture flirCamera(0);
 	if(!usbCamera.isOpened() || !flirCamera.isOpened())
 	{
 		cout<<"Capture could not be opened successfully"<<endl;

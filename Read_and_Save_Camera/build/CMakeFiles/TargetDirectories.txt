@@ -1,0 +1,1 @@
+/home/ubuntu/Documents/jwwangchn/OpenCV-Common/Read_and_Save_Camera/build/CMakeFiles/read-and-save-camera.dir

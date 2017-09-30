@@ -1,5 +1,7 @@
 *.avi
+build/
 
+*~
 # Prerequisites
 *.d
 
